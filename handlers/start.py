@@ -25,11 +25,8 @@ Use the buttons below to know more about me.""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/"
-                    ),
-                    InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/"
-                    ),
+                        "💬 Group", url="group nhi hai"
+                    ), 
                     InlineKeyboardButton(
                         "Source", url="Not Open Right Now" )
                 ]
