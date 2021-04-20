@@ -20,18 +20,18 @@ Use the buttons below to know more about me.""",
             [
                 [
                     InlineKeyboardButton(
-                        "➕ Add Me", url="Not Open For Now"
+                        "➕ Add Me", url="t.me/Mikasamusic_bot?startgroup=true"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/devilcodes_network"
+                        "💬 Group", url="https://t.me/"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/devilcodes_inc"
+                        "Channel 🔈", url="https://t.me/"
                     ),
                     InlineKeyboardButton(
-                        "offtopic 😈", url="https://t.me/devils_crazy_chats" )
+                        "Source", url="Not Open Right Now" )
                 ]
             ]
         )
